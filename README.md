@@ -1,4 +1,4 @@
 # March-Madness-Simulator
-Project in Course BA576 that focuses on machine learning techniques, data from a kaggle competition dataset for 2026 march madness.
+Project in Course BA576 that focuses on machine learning techniques, using data from a Kaggle competition dataset for the 2026 March Madness.
 
-Project was created in Google collab with one partner.
+The project was created in Google Colab with one partner.
