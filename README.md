@@ -47,3 +47,5 @@ MTeams.csv
 ## My Contribution
 
 Feature Cleaninig/Engeneering as well as predictive model creation
+
+Model implementation into the bracket simulator was done by Classmates
